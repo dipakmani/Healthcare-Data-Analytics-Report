@@ -38,3 +38,6 @@ Adding more granular patient data such as reasons for ER visits and follow-up ca
 
 Conclusion
 This project showcases how data visualization can be a powerful tool in healthcare management. By understanding patterns in ER visits, wait times, and patient satisfaction, hospitals can improve their operational efficiency and enhance the quality of care provided to patients.
+
+Get Interactive Report:
+https://app.powerbi.com/reportEmbed?reportId=db917805-df76-4a2e-b964-1673a64e6924&autoAuth=true&ctid=76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61
